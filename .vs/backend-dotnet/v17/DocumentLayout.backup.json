@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|d:\\dotnet\\users management project practice\\backend-dotnet\\backend-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|d:\\dotnet\\users management project practice\\backend-dotnet\\backend-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|d:\\dotnet\\users management project practice\\backend-dotnet\\backend-dotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|d:\\dotnet\\users management project practice\\backend-dotnet\\backend-dotnet\\core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|d:\\dotnet\\users management project practice\\backend-dotnet\\backend-dotnet\\core\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|d:\\dotnet\\users management project practice\\backend-dotnet\\backend-dotnet\\core\\dtos\\auth\\updateroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\core\\dtos\\auth\\updateroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|d:\\dotnet\\users management project practice\\backend-dotnet\\backend-dotnet\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D86B7A-9E38-4D62-A69D-1CF25EA118DD}|backend-dotnet\\backend-dotnet.csproj|solutionrelative:backend-dotnet\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "backend-dotnet\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\appsettings.json",
+              "RelativeToolTip": "backend-dotnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T15:48:00.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Core\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Core\\Services\\MessageService.cs",
+              "ToolTip": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Core\\Services\\MessageService.cs",
+              "RelativeToolTip": "backend-dotnet\\Core\\Services\\MessageService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:12:38.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateRoleDto.cs",
+              "DocumentMoniker": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Core\\Dtos\\Auth\\UpdateRoleDto.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Core\\Dtos\\Auth\\UpdateRoleDto.cs",
+              "ToolTip": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Core\\Dtos\\Auth\\UpdateRoleDto.cs",
+              "RelativeToolTip": "backend-dotnet\\Core\\Dtos\\Auth\\UpdateRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:03:34.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Controllers\\LogsController.cs",
+              "ToolTip": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "backend-dotnet\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:47:25.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Program.cs",
+              "ToolTip": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Program.cs",
+              "RelativeToolTip": "backend-dotnet\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:45:11.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Core\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Core\\Services\\AuthService.cs",
+              "ToolTip": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Core\\Services\\AuthService.cs",
+              "RelativeToolTip": "backend-dotnet\\Core\\Services\\AuthService.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAQwD8BAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:32:26.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend-dotnet\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\DotNet\\Users Management Project Practice\\backend-dotnet\\backend-dotnet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend-dotnet\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:28:36.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
